@@ -1,13 +1,48 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
+<html lang="en">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <link rel="stylesheet" href="" type="text/css" media="screen" charset="utf-8" />
   <title>CIS 408 Project</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+  <!-- Nav tabs -->
+    <ul class="nav nav-tabs justify-content-center" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" data-toggle="tab" href="#home">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#menu1">Full List</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#menu2">Compare 2 Restaurants</a>
+      </li>
+    </ul>
+<br> <br>
+<div class="tab-content">
+  <div class="tab-pane container active" id="home">
 
+    <div class="form-group">
+      <form class="form-inline justify-content-center" action="process.php" method="post">
+        <input type="search" name="searchBar" value="">
+        <input type="submit" name="" value="submit">
+        <button type="button" name="searchButton" class="btn btn-info" id="searchbutton">Search</button>
+      </form>
+    </div>
+    </div>
+    <div class="tab-pane container fade" id="menu1">...</div>
+    <div class="tab-pane container fade" id="menu2">...</div>
+    </div>
+
+<footer id="footer">
+
+</footer>
+<script type="text/javascript">
+  var searchButton = document.getElementById("searchbutton");
+  searchButton.addEventListener("click", )
+</script>
 </body>
 </html>
