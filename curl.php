@@ -19,10 +19,9 @@
 // API key placeholders that must be filled in by users.
 // You can find it on
 // https://www.yelp.com/developers/v3/manage_app
-$API_KEY = NULL;
+$API_KEY = 'aAKXGudMNZrDDzjPmBQKldOWUreaeaoXEySJsGjeossJYA9Mz8A3qCkLxAwsiA7OB7pKPFsIS2YFI1M7qU24611T0tGIMhnqRDvFno1EOUpUh3Z5H2Xj1NQxXPKaXnYx';
 
 // Complain if credentials haven't been filled out.
-assert($API_KEY, "Please supply your API key.");
 
 // API constants, you shouldn't have to change these.
 $API_HOST = "https://api.yelp.com";
