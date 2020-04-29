@@ -1,0 +1,1977 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<businesses>
+		<id>vdloJPM3bSpQTMlwdFek2A</id>
+		<alias>butcher-and-the-brewer-cleveland</alias>
+		<name>Butcher and the Brewer</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/HwBnXPqJpfwakFC--N84OA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/butcher-and-the-brewer-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>708</review_count>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>pubs</alias>
+			<title>Pubs</title>
+		</categories>
+		<categories>
+			<alias>breweries</alias>
+			<title>Breweries</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4992176741362</latitude>
+			<longitude>-81.6901288926601</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2043 E 4th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44115</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2043 E 4th St</display_address>
+			<display_address>Cleveland, OH 44115</display_address>
+		</location>
+		<phone>+12163310805</phone>
+		<display_phone>(216) 331-0805</display_phone>
+		<distance>3227.9234428051445</distance>
+	</businesses>
+	<businesses>
+		<id>OD2dbQTKN7FS01fHzZqqzA</id>
+		<alias>the-bourbon-street-barrel-room-cleveland</alias>
+		<name>The Bourbon Street Barrel Room</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/aazypIMeP-9B148-ZIizgw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/the-bourbon-street-barrel-room-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>490</review_count>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<categories>
+			<alias>cajun</alias>
+			<title>Cajun/Creole</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4800421884869</latitude>
+			<longitude>-81.6850350203755</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2393 Professor Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2393 Professor Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12162984400</phone>
+		<display_phone>(216) 298-4400</display_phone>
+		<distance>1287.210840338824</distance>
+	</businesses>
+	<businesses>
+		<id>1gQrMs-I8oKg2p-iRxznzQ</id>
+		<alias>soho-chicken-whiskey-cleveland</alias>
+		<name>Soho Chicken + Whiskey</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/Z2u4i6c658stiWays_j7PQ/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/soho-chicken-whiskey-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>497</review_count>
+		<categories>
+			<alias>southern</alias>
+			<title>Southern</title>
+		</categories>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4857177734375</latitude>
+			<longitude>-81.7040939331055</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1889 W 25th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1889 W 25th St</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12162989090</phone>
+		<display_phone>(216) 298-9090</display_phone>
+		<distance>2971.896093508019</distance>
+	</businesses>
+	<businesses>
+		<id>epAifIGqwj5oFp5MV8kgiQ</id>
+		<alias>mia-bella-restaurant-cleveland</alias>
+		<name>Mia Bella Restaurant</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/SWc774JvS3IgMC34l0ta_w/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/mia-bella-restaurant-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>636</review_count>
+		<categories>
+			<alias>mediterranean</alias>
+			<title>Mediterranean</title>
+		</categories>
+		<categories>
+			<alias>italian</alias>
+			<title>Italian</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.5085151</latitude>
+			<longitude>-81.5976709</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>12200 Mayfield Rd</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44106</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>12200 Mayfield Rd</display_address>
+			<display_address>Cleveland, OH 44106</display_address>
+		</location>
+		<phone>+12167952355</phone>
+		<display_phone>(216) 795-2355</display_phone>
+		<distance>7333.9832703494</distance>
+	</businesses>
+	<businesses>
+		<id>Lx2iogriI7219WkgKgliAQ</id>
+		<alias>noble-beast-brewing-cleveland-4</alias>
+		<name>Noble Beast Brewing</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/3EFJ8bSfzAEbgmkwjRgBLQ/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/noble-beast-brewing-cleveland-4?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>245</review_count>
+		<categories>
+			<alias>breweries</alias>
+			<title>Breweries</title>
+		</categories>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>beerbar</alias>
+			<title>Beer Bar</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.5077833974928</latitude>
+			<longitude>-81.6863898932934</longitude>
+		</coordinates>
+		<price>$$</price>
+		<location>
+			<address1>1470 Lakeside Ave E</address1>
+			<address2></address2>
+			<address3 />
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1470 Lakeside Ave E</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12164178588</phone>
+		<display_phone>(216) 417-8588</display_phone>
+		<distance>3995.8010963591632</distance>
+	</businesses>
+	<businesses>
+		<id>tZpxk604kWWHsJKyirraZg</id>
+		<alias>lj-shanghai-cleveland</alias>
+		<name>LJ Shanghai</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/HwmhgvROFgbCcfB1ayYJ-Q/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/lj-shanghai-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>306</review_count>
+		<categories>
+			<alias>shanghainese</alias>
+			<title>Shanghainese</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.5110026135085</latitude>
+			<longitude>-81.668807345474</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$</price>
+		<location>
+			<address1>3142 Superior Ave</address1>
+			<address2></address2>
+			<address3 />
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>3142 Superior Ave</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12164006936</phone>
+		<display_phone>(216) 400-6936</display_phone>
+		<distance>4189.631215269247</distance>
+	</businesses>
+	<businesses>
+		<id>1veVZUawy7IhIc5oDpRRQA</id>
+		<alias>slymans-restaurant-cleveland</alias>
+		<name>Slyman's Restaurant </name>
+		<image_url>https://s3-media1.fl.yelpcdn.com/bphoto/64nhJYhyTpEU-S5Ce04fTg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/slymans-restaurant-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>469</review_count>
+		<categories>
+			<alias>tradamerican</alias>
+			<title>American (Traditional)</title>
+		</categories>
+		<categories>
+			<alias>sandwiches</alias>
+			<title>Sandwiches</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.51286</latitude>
+			<longitude>-81.67125</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>3106 Saint Clair Ave NE</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>3106 Saint Clair Ave NE</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12166213760</phone>
+		<display_phone>(216) 621-3760</display_phone>
+		<distance>4387.852813612793</distance>
+	</businesses>
+	<businesses>
+		<id>Xny0n0s98TpP82sQxfgIMQ</id>
+		<alias>sokolowskis-university-inn-cleveland</alias>
+		<name>Sokolowski's University Inn</name>
+		<image_url>https://s3-media1.fl.yelpcdn.com/bphoto/ZJprF7WZe5he6xQkS0qcCg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/sokolowskis-university-inn-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>558</review_count>
+		<categories>
+			<alias>polish</alias>
+			<title>Polish</title>
+		</categories>
+		<categories>
+			<alias>tradamerican</alias>
+			<title>American (Traditional)</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.48475</latitude>
+			<longitude>-81.69005</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1201 University Rd</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1201 University Rd</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12167719236</phone>
+		<display_phone>(216) 771-9236</display_phone>
+		<distance>1942.42013816057</distance>
+	</businesses>
+	<businesses>
+		<id>K6fYrrTorlpXmqutRcrHzg</id>
+		<alias>tremont-taphouse-cleveland</alias>
+		<name>Tremont Taphouse</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/ZEUoobhiN_H-sxu_TiLD2g/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/tremont-taphouse-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>455</review_count>
+		<categories>
+			<alias>gastropubs</alias>
+			<title>Gastropubs</title>
+		</categories>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>beerbar</alias>
+			<title>Beer Bar</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.47719</latitude>
+			<longitude>-81.69528</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2572 Scranton Rd</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2572 Scranton Rd</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12162984451</phone>
+		<display_phone>(216) 298-4451</display_phone>
+		<distance>1954.6007213012788</distance>
+	</businesses>
+	<businesses>
+		<id>ZRLmQ3oAuspAkk5R6BOfyg</id>
+		<alias>fat-cats-cleveland</alias>
+		<name>Fat Cats</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/ma_kEvWBDqXsOq4blsVJ6w/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/fat-cats-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>265</review_count>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<categories>
+			<alias>asianfusion</alias>
+			<title>Asian Fusion</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.48381</latitude>
+			<longitude>-81.68746</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2061 W 10th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2061 W 10th St</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12165790200</phone>
+		<display_phone>(216) 579-0200</display_phone>
+		<distance>1706.5796525688768</distance>
+	</businesses>
+	<businesses>
+		<id>b7sNNAhE-OudLYcUTksfgQ</id>
+		<alias>alea-cleveland-2</alias>
+		<name>ALEA</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/9x6j5w27Dm0MMUFb1PAu6g/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/alea-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>16</review_count>
+		<categories>
+			<alias>mediterranean</alias>
+			<title>Mediterranean</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4893642</latitude>
+			<longitude>-81.7109741</longitude>
+		</coordinates>
+		<price>$$</price>
+		<location>
+			<address1>2912 Church Ave</address1>
+			<address2 />
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2912 Church Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12169128890</phone>
+		<display_phone>(216) 912-8890</display_phone>
+		<distance>3687.396671964724</distance>
+	</businesses>
+	<businesses>
+		<id>cX2Nr_XmGYlMaBW35M0sUg</id>
+		<alias>mabels-bbq-cleveland</alias>
+		<name>Mabel's BBQ</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/RGxYiAr6oGl4FPVkD7W5GA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/mabels-bbq-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>995</review_count>
+		<categories>
+			<alias>bbq</alias>
+			<title>Barbeque</title>
+		</categories>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4989512054125</latitude>
+			<longitude>-81.6902246153941</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2050 E 4th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44115</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2050 E 4th St</display_address>
+			<display_address>Cleveland, OH 44115</display_address>
+		</location>
+		<phone>+12164178823</phone>
+		<display_phone>(216) 417-8823</display_phone>
+		<distance>3205.314158655642</distance>
+	</businesses>
+	<businesses>
+		<id>LNsZJP6jZ11e0tDljOLPiQ</id>
+		<alias>townhall-cleveland-2</alias>
+		<name>Townhall</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/s4j2eJq68nEcCHqhUDa1vA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/townhall-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>1419</review_count>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>juicebars</alias>
+			<title>Juice Bars &amp; Smoothies</title>
+		</categories>
+		<categories>
+			<alias>beerbar</alias>
+			<title>Beer Bar</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.485492</latitude>
+			<longitude>-81.703914</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<transactions>pickup</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1909 W 25th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1909 W 25th St</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12163449400</phone>
+		<display_phone>(216) 344-9400</display_phone>
+		<distance>2951.385340171334</distance>
+	</businesses>
+	<businesses>
+		<id>J4jxIxv_vgmWHCajos_B8w</id>
+		<alias>taza-a-lebanese-grill-cleveland</alias>
+		<name>Taza A Lebanese Grill</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/w5TpwRHcrsewRk1xj3btug/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/taza-a-lebanese-grill-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>361</review_count>
+		<categories>
+			<alias>mediterranean</alias>
+			<title>Mediterranean</title>
+		</categories>
+		<categories>
+			<alias>mideastern</alias>
+			<title>Middle Eastern</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.498885475667</latitude>
+			<longitude>-81.6981884508823</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1400 W 6th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1400 W 6th St</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12162741170</phone>
+		<display_phone>(216) 274-1170</display_phone>
+		<distance>3556.20435784661</distance>
+	</businesses>
+	<businesses>
+		<id>MX3TL4-ij22rLFBD1XjKGw</id>
+		<alias>fahrenheit-cleveland-2</alias>
+		<name>Fahrenheit</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/dLgn-it21xXkSni31WNx2g/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/fahrenheit-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>309</review_count>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>seafood</alias>
+			<title>Seafood</title>
+		</categories>
+		<categories>
+			<alias>cocktailbars</alias>
+			<title>Cocktail Bars</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.47974</latitude>
+			<longitude>-81.68458</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$$</price>
+		<location>
+			<address1>2417 Professor Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2417 Professor Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12167818858</phone>
+		<display_phone>(216) 781-8858</display_phone>
+		<distance>1231.2158459926795</distance>
+	</businesses>
+	<businesses>
+		<id>SzcCJJmreMlWCsNjupdVAA</id>
+		<alias>l-albatros-cleveland</alias>
+		<name>L'Albatros</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/QpVBtp_nqMbkW46wgyI31Q/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/l-albatros-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>699</review_count>
+		<categories>
+			<alias>french</alias>
+			<title>French</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.5117439550152</latitude>
+			<longitude>-81.6063953369928</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$$</price>
+		<location>
+			<address1>11401 Bellflower Rd</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44106</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>11401 Bellflower Rd</display_address>
+			<display_address>Cleveland, OH 44106</display_address>
+		</location>
+		<phone>+12167917880</phone>
+		<display_phone>(216) 791-7880</display_phone>
+		<distance>6953.412053123396</distance>
+	</businesses>
+	<businesses>
+		<id>meXjqyhTNLFmknY39y2sMg</id>
+		<alias>great-lakes-brewing-company-cleveland-4</alias>
+		<name>Great Lakes Brewing Company</name>
+		<image_url>https://s3-media1.fl.yelpcdn.com/bphoto/RHNLazhqkPK5K0Bx4NgmgA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/great-lakes-brewing-company-cleveland-4?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>1008</review_count>
+		<categories>
+			<alias>breweries</alias>
+			<title>Breweries</title>
+		</categories>
+		<categories>
+			<alias>venues</alias>
+			<title>Venues &amp; Event Spaces</title>
+		</categories>
+		<categories>
+			<alias>tradamerican</alias>
+			<title>American (Traditional)</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4844102</latitude>
+			<longitude>-81.7043954</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2516 Market Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2516 Market Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12167714404</phone>
+		<display_phone>(216) 771-4404</display_phone>
+		<distance>2944.089480990514</distance>
+	</businesses>
+	<businesses>
+		<id>QMpy9X4gqqqRY2QwG2kxVA</id>
+		<alias>astoria-cafe-and-market-cleveland</alias>
+		<name>Astoria Cafe &amp; Market</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/l7Gzrtlt26jpktNC_cRhWw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/astoria-cafe-and-market-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>202</review_count>
+		<categories>
+			<alias>mediterranean</alias>
+			<title>Mediterranean</title>
+		</categories>
+		<categories>
+			<alias>tapasmallplates</alias>
+			<title>Tapas/Small Plates</title>
+		</categories>
+		<categories>
+			<alias>importedfood</alias>
+			<title>Imported Food</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4852993343325</latitude>
+			<longitude>-81.7244920134544</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>5417 Detroit Ave</address1>
+			<address2></address2>
+			<address3 />
+			<city>Cleveland</city>
+			<zip_code>44102</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>5417 Detroit Ave</display_address>
+			<display_address>Cleveland, OH 44102</display_address>
+		</location>
+		<phone>+12162660834</phone>
+		<display_phone>(216) 266-0834</display_phone>
+		<distance>4539.159917003367</distance>
+	</businesses>
+	<businesses>
+		<id>F2pfjAZ_3dMTGCKv6c5wOw</id>
+		<alias>momocho-cleveland-2</alias>
+		<name>Momocho</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/Ua7BCCoAX6qwZkCyEY7clA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/momocho-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>781</review_count>
+		<categories>
+			<alias>mexican</alias>
+			<title>Mexican</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4840151</latitude>
+			<longitude>-81.7098131</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1835 Fulton Rd</address1>
+			<address2 />
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1835 Fulton Rd</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12166942122</phone>
+		<display_phone>(216) 694-2122</display_phone>
+		<distance>3334.932183995511</distance>
+	</businesses>
+	<businesses>
+		<id>Ur4eYOFq4qVLHkZJNmcqfQ</id>
+		<alias>prosperity-social-club-cleveland</alias>
+		<name>Prosperity Social Club</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/p7B1y9Tw6o28r-7eijpiWw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/prosperity-social-club-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>233</review_count>
+		<categories>
+			<alias>pubs</alias>
+			<title>Pubs</title>
+		</categories>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4770698547363</latitude>
+			<longitude>-81.6897888183594</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1109 Starkweather Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1109 Starkweather Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12169371938</phone>
+		<display_phone>(216) 937-1938</display_phone>
+		<distance>1507.415673311453</distance>
+	</businesses>
+	<businesses>
+		<id>wOKcWLyN1DhSEl3Y1eG5nQ</id>
+		<alias>flying-fig-cleveland</alias>
+		<name>Flying Fig</name>
+		<image_url>https://s3-media1.fl.yelpcdn.com/bphoto/98JU8rZtkSHFkCNVoZcZmA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/flying-fig-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>480</review_count>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.484180507057</latitude>
+			<longitude>-81.704313905858</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2523 Market Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2523 Market Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12162414243</phone>
+		<display_phone>(216) 241-4243</display_phone>
+		<distance>2918.3497649316128</distance>
+	</businesses>
+	<businesses>
+		<id>xBgQ4T6mhS5VsmK9u6mBcg</id>
+		<alias>fire-cleveland-3</alias>
+		<name>Fire</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/-iLnzlvDQc15KqWoip3lPA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/fire-cleveland-3?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>314</review_count>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>seafood</alias>
+			<title>Seafood</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.483255</latitude>
+			<longitude>-81.589659</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$$</price>
+		<location>
+			<address1>13220 Shaker Sq</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44120</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>13220 Shaker Sq</display_address>
+			<display_address>Cleveland, OH 44120</display_address>
+		</location>
+		<phone>+12169213473</phone>
+		<display_phone>(216) 921-3473</display_phone>
+		<distance>6976.190192317163</distance>
+	</businesses>
+	<businesses>
+		<id>GDpd9KZdUgnjcoCWTTphqw</id>
+		<alias>szechuan-gourmet-cleveland</alias>
+		<name>Szechuan Gourmet</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/Gyy-LOPGOskb3xQ5tvuTnw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/szechuan-gourmet-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>219</review_count>
+		<categories>
+			<alias>szechuan</alias>
+			<title>Szechuan</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.508505</latitude>
+			<longitude>-81.663319</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1735 E 36th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1735 E 36th St</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12168819688</phone>
+		<display_phone>(216) 881-9688</display_phone>
+		<distance>3973.489587322134</distance>
+	</businesses>
+	<businesses>
+		<id>Nkb9_PKgnVYZe8W1y_fBRg</id>
+		<alias>dante-next-door-cleveland</alias>
+		<name>Dante Next Door</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/BfZB9PqCwRiyZhfo3SJ1Bw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/dante-next-door-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>89</review_count>
+		<categories>
+			<alias>italian</alias>
+			<title>Italian</title>
+		</categories>
+		<categories>
+			<alias>pizza</alias>
+			<title>Pizza</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4815368652344</latitude>
+			<longitude>-81.6861724853516</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2247 Professor Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2247 Professor Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12162741201</phone>
+		<display_phone>(216) 274-1201</display_phone>
+		<distance>1480.5270100080695</distance>
+	</businesses>
+	<businesses>
+		<id>Qqh2cFO1bk5TQ8mWIEjbCw</id>
+		<alias>herb-n-twine-cleveland</alias>
+		<name>Herb 'n Twine</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/wNEPsVu7d7EDwY2s7yxcLw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/herb-n-twine-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>178</review_count>
+		<categories>
+			<alias>sandwiches</alias>
+			<title>Sandwiches</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4792764410029</latitude>
+			<longitude>-81.7158751516917</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>4309 Lorain Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>4309 Lorain Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12164659600</phone>
+		<display_phone>(216) 465-9600</display_phone>
+		<distance>3683.046934793846</distance>
+	</businesses>
+	<businesses>
+		<id>Gs_jpJB5f3a1jCQjV7QHQA</id>
+		<alias>barroco-cleveland</alias>
+		<name>Barroco</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/cBR5OW6hvd2o0fIvVG9yTg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/barroco-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>185</review_count>
+		<categories>
+			<alias>latin</alias>
+			<title>Latin American</title>
+		</categories>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<categories>
+			<alias>gluten_free</alias>
+			<title>Gluten-Free</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4874</latitude>
+			<longitude>-81.59369</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>12718 Larchmere Blvd</address1>
+			<address2></address2>
+			<address3 />
+			<city>Cleveland</city>
+			<zip_code>44120</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>12718 Larchmere Blvd</display_address>
+			<display_address>Cleveland, OH 44120</display_address>
+		</location>
+		<phone>+12169389301</phone>
+		<display_phone>(216) 938-9301</display_phone>
+		<distance>6734.897114237191</distance>
+	</businesses>
+	<businesses>
+		<id>_5PJ4GHIXNdUdXtohylKGQ</id>
+		<alias>luckys-cafe-cleveland-3</alias>
+		<name>Lucky's Cafe</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/ca_NaRj7LYdKkqER8Ala4A/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/luckys-cafe-cleveland-3?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>906</review_count>
+		<categories>
+			<alias>coffee</alias>
+			<title>Coffee &amp; Tea</title>
+		</categories>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<categories>
+			<alias>desserts</alias>
+			<title>Desserts</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.47736</latitude>
+			<longitude>-81.68308</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>777 Starkweather Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>777 Starkweather Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12166227773</phone>
+		<display_phone>(216) 622-7773</display_phone>
+		<distance>992.8943402581386</distance>
+	</businesses>
+	<businesses>
+		<id>YVkcZQEfH0qQRtN86CoSDQ</id>
+		<alias>batuqui-cleveland</alias>
+		<name>Batuqui</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/Dnyi8uEGjb4YakD1PPe9Lg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/batuqui-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>152</review_count>
+		<categories>
+			<alias>brazilian</alias>
+			<title>Brazilian</title>
+		</categories>
+		<categories>
+			<alias>salad</alias>
+			<title>Salad</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4874525269246</latitude>
+			<longitude>-81.5941883092739</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$$</price>
+		<location>
+			<address1>12706 Larchmere Blvd</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44120</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>12706 Larchmere Blvd</display_address>
+			<display_address>Cleveland, OH 44120</display_address>
+		</location>
+		<phone>+12168010227</phone>
+		<display_phone>(216) 801-0227</display_phone>
+		<distance>6696.73173876018</distance>
+	</businesses>
+	<businesses>
+		<id>wxMDlB4MJ65CHQVxOYm5_w</id>
+		<alias>landmark-cleveland</alias>
+		<name>Landmark Smokehouse</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/1-mIlPCDVhVtyW43H9m_-g/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/landmark-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>121</review_count>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<categories>
+			<alias>diners</alias>
+			<title>Diners</title>
+		</categories>
+		<categories>
+			<alias>salad</alias>
+			<title>Salad</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4872978</latitude>
+			<longitude>-81.7683908</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>11637 Clifton Blvd</address1>
+			<address2></address2>
+			<address3 />
+			<city>Cleveland</city>
+			<zip_code>44102</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>11637 Clifton Blvd</display_address>
+			<display_address>Cleveland, OH 44102</display_address>
+		</location>
+		<phone>+12162304040</phone>
+		<display_phone>(216) 230-4040</display_phone>
+		<distance>8154.721891487086</distance>
+	</businesses>
+	<businesses>
+		<id>t2O4Qx74U_IfBzDHJzvUCA</id>
+		<alias>urban-farmer-cleveland-2</alias>
+		<name>Urban Farmer</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/l0n5hWVtd9kcjE2FDJ0bmA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/urban-farmer-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>587</review_count>
+		<categories>
+			<alias>tradamerican</alias>
+			<title>American (Traditional)</title>
+		</categories>
+		<categories>
+			<alias>steak</alias>
+			<title>Steakhouses</title>
+		</categories>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<rating>3.5</rating>
+		<coordinates>
+			<latitude>41.5034943</latitude>
+			<longitude>-81.691981</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1325 E 6th St</address1>
+			<address2 />
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1325 E 6th St</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12167717707</phone>
+		<display_phone>(216) 771-7707</display_phone>
+		<distance>3725.8714029619105</distance>
+	</businesses>
+	<businesses>
+		<id>cUwNW5NEua_yMcAx-X2sMg</id>
+		<alias>grumpys-cafe-cleveland</alias>
+		<name>Grumpy's Cafe</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/RurJ6-UmEMh6YUDBthTZGA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/grumpys-cafe-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>442</review_count>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<categories>
+			<alias>salad</alias>
+			<title>Salad</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.476519</latitude>
+			<longitude>-81.690993</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2621 W 14th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2621 W 14th St</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12162415025</phone>
+		<display_phone>(216) 241-5025</display_phone>
+		<distance>1589.909540735671</distance>
+	</businesses>
+	<businesses>
+		<id>9JUynLfWPwe1X9gsJS6FTA</id>
+		<alias>cleveland-chop-cleveland</alias>
+		<name>Cleveland Chop</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/BJCxNyh_C3LF4_OqW2A6aw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/cleveland-chop-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>321</review_count>
+		<categories>
+			<alias>steak</alias>
+			<title>Steakhouses</title>
+		</categories>
+		<categories>
+			<alias>seafood</alias>
+			<title>Seafood</title>
+		</categories>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.49951</latitude>
+			<longitude>-81.69936</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>824 W St Clair Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>824 W St Clair Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12166962467</phone>
+		<display_phone>(216) 696-2467</display_phone>
+		<distance>3660.980882180836</distance>
+	</businesses>
+	<businesses>
+		<id>HiJ2GEMZGKI8vwalAp2h-Q</id>
+		<alias>sichuan-hot-pot-cuisine-cleveland-2</alias>
+		<name>Sichuan Hot Pot Cuisine</name>
+		<image_url>https://s3-media1.fl.yelpcdn.com/bphoto/8OA17DzpCLDnyunKtl_zeg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/sichuan-hot-pot-cuisine-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>31</review_count>
+		<categories>
+			<alias>szechuan</alias>
+			<title>Szechuan</title>
+		</categories>
+		<categories>
+			<alias>hotpot</alias>
+			<title>Hot Pot</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.5086</latitude>
+			<longitude>-81.67808</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<location>
+			<address1>2162 Rockwell Ave</address1>
+			<address2 />
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2162 Rockwell Ave</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12165231188</phone>
+		<display_phone>(216) 523-1188</display_phone>
+		<distance>3945.460436689212</distance>
+	</businesses>
+	<businesses>
+		<id>9p-oDNOVSG38rRN-15MviQ</id>
+		<alias>korea-house-cleveland</alias>
+		<name>Korea House</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/6RxzJMzVoqibCw-VrPDFXQ/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/korea-house-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>137</review_count>
+		<categories>
+			<alias>korean</alias>
+			<title>Korean</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.51243</latitude>
+			<longitude>-81.66493</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>3700 Superior Ave E</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>3700 Superior Ave E</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12164310462</phone>
+		<display_phone>(216) 431-0462</display_phone>
+		<distance>4378.129895381054</distance>
+	</businesses>
+	<businesses>
+		<id>AbPQf-X7awuPFDULiJ43bg</id>
+		<alias>superior-pho-cleveland</alias>
+		<name>Superior Pho</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/FJFfJ9FUTDC3kWzTho38Cg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/superior-pho-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>640</review_count>
+		<categories>
+			<alias>vietnamese</alias>
+			<title>Vietnamese</title>
+		</categories>
+		<categories>
+			<alias>soup</alias>
+			<title>Soup</title>
+		</categories>
+		<categories>
+			<alias>sandwiches</alias>
+			<title>Sandwiches</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.51056</latitude>
+			<longitude>-81.6698</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<transactions>pickup</transactions>
+		<price>$</price>
+		<location>
+			<address1>3030 Superior Ave E</address1>
+			<address2>Ste E</address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>3030 Superior Ave E</display_address>
+			<display_address>Ste E</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12167817462</phone>
+		<display_phone>(216) 781-7462</display_phone>
+		<distance>4127.849574573042</distance>
+	</businesses>
+	<businesses>
+		<id>jA3xcba82t8x06H8NzG4VQ</id>
+		<alias>the-black-pig-cleveland-2</alias>
+		<name>The Black Pig</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/Ylx484WtXqx4oSpGKwCRwQ/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/the-black-pig-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>185</review_count>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<categories>
+			<alias>cocktailbars</alias>
+			<title>Cocktail Bars</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4847984313965</latitude>
+			<longitude>-81.706657409668</longitude>
+		</coordinates>
+		<price>$$</price>
+		<location>
+			<address1>2801 Bridge Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2801 Bridge Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12168627551</phone>
+		<display_phone>(216) 862-7551</display_phone>
+		<distance>3125.099895407353</distance>
+	</businesses>
+	<businesses>
+		<id>M4RwZL5bTBTwwbVcoaDbtw</id>
+		<alias>rowley-inn-cleveland</alias>
+		<name>Rowley Inn</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/y-d01iTOqCeIvfvl_x1orQ/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/rowley-inn-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>185</review_count>
+		<categories>
+			<alias>pubs</alias>
+			<title>Pubs</title>
+		</categories>
+		<categories>
+			<alias>gastropubs</alias>
+			<title>Gastropubs</title>
+		</categories>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4689993</latitude>
+			<longitude>-81.6878849</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1104 Rowley Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44109</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1104 Rowley Ave</display_address>
+			<display_address>Cleveland, OH 44109</display_address>
+		</location>
+		<phone>+12167955345</phone>
+		<display_phone>(216) 795-5345</display_phone>
+		<distance>1383.4300810329428</distance>
+	</businesses>
+	<businesses>
+		<id>J1RDyyPxhioqm8c_fi4P4Q</id>
+		<alias>lola-cleveland</alias>
+		<name>Lola</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/xP1QFeC-Llz3kofnVAurCw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/lola-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>1102</review_count>
+		<categories>
+			<alias>wine_bars</alias>
+			<title>Wine Bars</title>
+		</categories>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.49883</latitude>
+			<longitude>-81.69035</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$$</price>
+		<location>
+			<address1>2058 E 4th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44115</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2058 E 4th St</display_address>
+			<display_address>Cleveland, OH 44115</display_address>
+		</location>
+		<phone>+12166215652</phone>
+		<display_phone>(216) 621-5652</display_phone>
+		<distance>3191.079270387402</distance>
+	</businesses>
+	<businesses>
+		<id>kXIJwryYY2xDHNnI7jz-WQ</id>
+		<alias>pho-thang-cafe-cleveland-3</alias>
+		<name>Pho Thang Cafe</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/0gimCGByJ0aAfVVG_hh4og/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/pho-thang-cafe-cleveland-3?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>296</review_count>
+		<categories>
+			<alias>vietnamese</alias>
+			<title>Vietnamese</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.5024433</latitude>
+			<longitude>-81.6893526</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>815 Superior Ave E</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>815 Superior Ave E</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12162917115</phone>
+		<display_phone>(216) 291-7115</display_phone>
+		<distance>3524.018119959777</distance>
+	</businesses>
+	<businesses>
+		<id>yTv4ptghx8xrErx6dcW3HA</id>
+		<alias>toast-cleveland</alias>
+		<name>Toast</name>
+		<image_url>https://s3-media2.fl.yelpcdn.com/bphoto/BRfrGTvHGTAR1Yt-7AqhNg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/toast-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>156</review_count>
+		<categories>
+			<alias>wine_bars</alias>
+			<title>Wine Bars</title>
+		</categories>
+		<categories>
+			<alias>breakfast_brunch</alias>
+			<title>Breakfast &amp; Brunch</title>
+		</categories>
+		<categories>
+			<alias>tradamerican</alias>
+			<title>American (Traditional)</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4849891662598</latitude>
+			<longitude>-81.7299499511719</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1365 W 65th St</address1>
+			<address2 />
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44102</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1365 W 65th St</display_address>
+			<display_address>Cleveland, OH 44102</display_address>
+		</location>
+		<phone>+12168628974</phone>
+		<display_phone>(216) 862-8974</display_phone>
+		<distance>4970.963488222837</distance>
+	</businesses>
+	<businesses>
+		<id>IJlEACzNH-i_6Ovppj1KSQ</id>
+		<alias>the-plum-cleveland</alias>
+		<name>The Plum</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/yFNi2avTuYZC5I27-3mAPQ/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/the-plum-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>126</review_count>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<categories>
+			<alias>cafes</alias>
+			<title>Cafes</title>
+		</categories>
+		<categories>
+			<alias>tradamerican</alias>
+			<title>American (Traditional)</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.4799099274481</latitude>
+			<longitude>-81.7142251234609</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>4133 Lorain Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>4133 Lorain Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12169388711</phone>
+		<display_phone>(216) 938-8711</display_phone>
+		<distance>3561.4215901422444</distance>
+	</businesses>
+	<businesses>
+		<id>HNs2Nf-trqFTDtho4vhfmA</id>
+		<alias>the-south-side-cleveland-2</alias>
+		<name>The South Side</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/ZizLAeTtZNl4U6Tpy1PiOw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/the-south-side-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>366</review_count>
+		<categories>
+			<alias>lounges</alias>
+			<title>Lounges</title>
+		</categories>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<rating>3.5</rating>
+		<coordinates>
+			<latitude>41.48202</latitude>
+			<longitude>-81.68897</longitude>
+		</coordinates>
+		<transactions>pickup</transactions>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2207 W 11th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2207 W 11th St</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12169372288</phone>
+		<display_phone>(216) 937-2288</display_phone>
+		<distance>1685.4541450346035</distance>
+	</businesses>
+	<businesses>
+		<id>2tfMXjOotr1r168mVttUmQ</id>
+		<alias>local-west-cleveland</alias>
+		<name>Local West</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/4hlhcuJ36r3Svix2IFHRBg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/local-west-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>158</review_count>
+		<categories>
+			<alias>gastropubs</alias>
+			<title>Gastropubs</title>
+		</categories>
+		<categories>
+			<alias>burgers</alias>
+			<title>Burgers</title>
+		</categories>
+		<categories>
+			<alias>tradamerican</alias>
+			<title>American (Traditional)</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4828415</latitude>
+			<longitude>-81.7355576</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>7400 Detroit Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44102</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>7400 Detroit Ave</display_address>
+			<display_address>Cleveland, OH 44102</display_address>
+		</location>
+		<phone>+12164177001</phone>
+		<display_phone>(216) 417-7001</display_phone>
+		<distance>5368.098297004771</distance>
+	</businesses>
+	<businesses>
+		<id>4YFV-Z4Yy_MCGS54kBgWPg</id>
+		<alias>rising-grill-korean-bbq-cleveland</alias>
+		<name>Rising Grill Korean BBQ</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/05sD91qxMLtU3VVzijrtRw/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/rising-grill-korean-bbq-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>100</review_count>
+		<categories>
+			<alias>korean</alias>
+			<title>Korean</title>
+		</categories>
+		<categories>
+			<alias>bbq</alias>
+			<title>Barbeque</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.50983</latitude>
+			<longitude>-81.66251</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>3709 Payne Ave</address1>
+			<address2></address2>
+			<address3 />
+			<city>Cleveland</city>
+			<zip_code>44114</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>3709 Payne Ave</display_address>
+			<display_address>Cleveland, OH 44114</display_address>
+		</location>
+		<phone>+12164653561</phone>
+		<display_phone>(216) 465-3561</display_phone>
+		<distance>4137.331563404393</distance>
+	</businesses>
+	<businesses>
+		<id>Ih0f0UyhFufm3C7kR72DSQ</id>
+		<alias>dante-cleveland-2</alias>
+		<name>Dante</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/CnH0Fzz4Hspi0FzvIB03Sg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/dante-cleveland-2?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>332</review_count>
+		<categories>
+			<alias>newamerican</alias>
+			<title>American (New)</title>
+		</categories>
+		<categories>
+			<alias>italian</alias>
+			<title>Italian</title>
+		</categories>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.48156</latitude>
+			<longitude>-81.68643</longitude>
+		</coordinates>
+		<price>$$$</price>
+		<location>
+			<address1>2247 Professor Ave</address1>
+			<address2 />
+			<address3 />
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2247 Professor Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12162741200</phone>
+		<display_phone>(216) 274-1200</display_phone>
+		<distance>1479.9690414825623</distance>
+	</businesses>
+	<businesses>
+		<id>CJvN2k3gjR7JspTx21icTQ</id>
+		<alias>crust-cleveland</alias>
+		<name>Crust</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/kDgmakmqvIiT0G2ta7Vp9A/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/crust-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>235</review_count>
+		<categories>
+			<alias>pizza</alias>
+			<title>Pizza</title>
+		</categories>
+		<categories>
+			<alias>italian</alias>
+			<title>Italian</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4812534171164</latitude>
+			<longitude>-81.6865449633101</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2258 Professor Ave</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2258 Professor Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12165830257</phone>
+		<display_phone>(216) 583-0257</display_phone>
+		<distance>1467.9353012871309</distance>
+	</businesses>
+	<businesses>
+		<id>BsvCTCVG7lrzXZ68VyyIcg</id>
+		<alias>lago-east-bank-cleveland-4</alias>
+		<name>Lago East Bank</name>
+		<image_url>https://s3-media1.fl.yelpcdn.com/bphoto/xOFCKYJeD5-Lotz0sK7AEg/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/lago-east-bank-cleveland-4?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>234</review_count>
+		<categories>
+			<alias>italian</alias>
+			<title>Italian</title>
+		</categories>
+		<categories>
+			<alias>seafood</alias>
+			<title>Seafood</title>
+		</categories>
+		<rating>4</rating>
+		<coordinates>
+			<latitude>41.5002522792643</latitude>
+			<longitude>-81.704224561507</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>1091 W 10th St</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>1091 W 10th St</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12168628065</phone>
+		<display_phone>(216) 862-8065</display_phone>
+		<distance>3993.2822166776123</distance>
+	</businesses>
+	<businesses>
+		<id>9LAXz_VfATZ0kLdaavkN4g</id>
+		<alias>bakersfield-cleveland-15</alias>
+		<name>Bakersfield</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/BgKHTnX8cBKxdiDXCh_CQQ/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/bakersfield-cleveland-15?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>409</review_count>
+		<categories>
+			<alias>bars</alias>
+			<title>Bars</title>
+		</categories>
+		<categories>
+			<alias>tacos</alias>
+			<title>Tacos</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4832899914507</latitude>
+			<longitude>-81.7029820382595</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2058 W 25th St</address1>
+			<address2></address2>
+			<address3 />
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2058 W 25th St</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12164430460</phone>
+		<display_phone>(216) 443-0460</display_phone>
+		<distance>2776.926828955662</distance>
+	</businesses>
+	<businesses>
+		<id>IoXcQkLpEaiv6S7ITelLWg</id>
+		<alias>ushabu-cleveland</alias>
+		<name>Ushabu</name>
+		<image_url>https://s3-media3.fl.yelpcdn.com/bphoto/3TWpr_lN2QaR-ySSwaOKeQ/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/ushabu-cleveland?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>121</review_count>
+		<categories>
+			<alias>japanese</alias>
+			<title>Japanese</title>
+		</categories>
+		<categories>
+			<alias>tapasmallplates</alias>
+			<title>Tapas/Small Plates</title>
+		</categories>
+		<categories>
+			<alias>hotpot</alias>
+			<title>Hot Pot</title>
+		</categories>
+		<rating>4.5</rating>
+		<coordinates>
+			<latitude>41.4824</latitude>
+			<longitude>-81.68717</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$</price>
+		<location>
+			<address1>2173 Professor Ave</address1>
+			<address2 />
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44113</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>2173 Professor Ave</display_address>
+			<display_address>Cleveland, OH 44113</display_address>
+		</location>
+		<phone>+12167131741</phone>
+		<display_phone>(216) 713-1741</display_phone>
+		<distance>1585.9730342861792</distance>
+	</businesses>
+	<businesses>
+		<id>LtDYRcMJbJPhXPEklT29Fw</id>
+		<alias>edwins-leadership-and-restaurant-institute-cleveland-3</alias>
+		<name>EDWINS Leadership and Restaurant Institute</name>
+		<image_url>https://s3-media4.fl.yelpcdn.com/bphoto/LvXAjpGE44K9Pi-xB8DTGA/o.jpg</image_url>
+		<is_closed>false</is_closed>
+		<url>https://www.yelp.com/biz/edwins-leadership-and-restaurant-institute-cleveland-3?adjust_creative=VZ7v1vIln-RpGHH5_leTWQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=VZ7v1vIln-RpGHH5_leTWQ</url>
+		<review_count>198</review_count>
+		<categories>
+			<alias>french</alias>
+			<title>French</title>
+		</categories>
+		<categories>
+			<alias>specialtyschools</alias>
+			<title>Specialty Schools</title>
+		</categories>
+		<rating>5</rating>
+		<coordinates>
+			<latitude>41.4842350467245</latitude>
+			<longitude>-81.5913967754631</longitude>
+		</coordinates>
+		<transactions>delivery</transactions>
+		<price>$$$</price>
+		<location>
+			<address1>13101 Shaker Sq</address1>
+			<address2 />
+			<address3></address3>
+			<city>Cleveland</city>
+			<zip_code>44120</zip_code>
+			<country>US</country>
+			<state>OH</state>
+			<display_address>13101 Shaker Sq</display_address>
+			<display_address>Cleveland, OH 44120</display_address>
+		</location>
+		<phone>+12169213333</phone>
+		<display_phone>(216) 921-3333</display_phone>
+		<distance>6851.485463612565</distance>
+	</businesses>
+	<total>1500</total>
+	<region>
+		<center>
+			<longitude>-81.67236328125</longitude>
+			<latitude>41.47341857719741</latitude>
+		</center>
+	</region>
+</root>

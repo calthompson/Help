@@ -1,0 +1,35 @@
+
+
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+  height: 100%;
+
+}
+
+table {
+  width: 95%;
+  font size: 18pt;
+}
+
+#header {
+	width: 95%;
+  height: auto;
+  text-align: center;
+}
+.full-screen {
+  max-height: 100%;
+  max-width: 100%;
+  top: 15%;
+}
+
+#container {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#searchForm {
+  width: 95%;
+  align-items: center;
+  text-align: center;
+}

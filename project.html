@@ -1,0 +1,74 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HELP!</title>
+  <script src="jquery-3.4.1.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.css" />
+  <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.js"></script>
+  <link rel="stylesheet" href="master.css">
+
+</head>
+
+<body>
+  <div class="full-screen" id="container">
+    <div id="content">
+
+
+      <div id="header">
+        <figure>
+
+          <img src="logo.png" alt="helpLogo">
+          <figure>
+      </div>
+      <div id="searchForm">
+        <form method="post">
+          <input type="text" name="query" id="query" placeholder="Search..." />
+          <input type="button" id="searchButton" name="searchButton" value="Search" />
+          <br>
+          <p>Search for budget friendly restaurants in Cleveland</p>
+          <h2>Search by: </h2>
+          <input type="radio" id="Name" name="searchBy" value="name" checked>
+          <label for="Name">Name</label> <br>
+          <input type="radio" id="Price" name="searchBy" value="price">
+          <label for="Price">Price</label><br>
+          <input type="radio" id="Style" name="searchBy" value="style">
+          <label for="Style">Cuisine</label><br>
+          <input type="radio" id="Rating" name="searchBy" value="rating">
+          <label for="Rating">Rating</label><br>
+        </form>
+      </div>
+      <div id="searchResult">
+        <table id="resultTable" class="table table-striped table-bordered" style="width:100%">
+
+        </table>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+    var searchButton = document.getElementById("searchButton");
+    searchButton.addEventListener("click", submitSearch);
+
+    function submitSearch() {
+      var query = $("#query").val();
+      var searchChoice = $("input[name='searchBy']:checked").val();
+      $.post("process.php", {
+        query: query,
+        searchChoice: searchChoice
+      }, function(results) {
+
+        $("#resultTable").html(results);
+        $("#resultTable").DataTable();
+      });
+
+
+    }
+  </script>
+</body>
+
+</html>
