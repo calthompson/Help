@@ -1280,6 +1280,7 @@
 			<longitude>-81.67808</longitude>
 		</coordinates>
 		<transactions>delivery</transactions>
+		<price>$</price>
 		<location>
 			<address1>2162 Rockwell Ave</address1>
 			<address2 />
@@ -3187,6 +3188,7 @@
   			<latitude>41.4796295</latitude>
   			<longitude>-81.7539368</longitude>
   		</coordinates>
+			<price>$$</price>
   		<transactions>delivery</transactions>
   		<location>
   			<address1>10031 Detroit Ave</address1>
@@ -3895,6 +3897,7 @@
   			<latitude>41.50811</latitude>
   			<longitude>-81.6691</longitude>
   		</coordinates>
+			<price>$</price>
   		<location>
   			<address1>2999 Payne Ave</address1>
   			<address2>Ste 126</address2>
@@ -3983,6 +3986,7 @@
   			<longitude>-81.70642</longitude>
   		</coordinates>
   		<transactions>delivery</transactions>
+			<price>$</price>
   		<location>
   			<address1>4250 Pearl Rd</address1>
   			<address2 />
@@ -4379,6 +4383,7 @@
   			<latitude>41.50122</latitude>
   			<longitude>-81.59386</longitude>
   		</coordinates>
+			<price>$$</price>
   		<transactions>delivery</transactions>
   		<location>
   			<address1>12413 Cedar Rd</address1>
@@ -4568,6 +4573,7 @@
   			<longitude>-81.70493</longitude>
   		</coordinates>
   		<transactions>delivery</transactions>
+			<price>$</price>
   		<location>
   			<address1>4162 Pearl Rd</address1>
   			<address2></address2>
@@ -6894,7 +6900,8 @@
     			<longitude>-81.6823299</longitude>
     		</coordinates>
     		<transactions>delivery</transactions>
-    		<location>
+				<price>$</price>
+				<location>
     			<address1>761 Starkweather Ave</address1>
     			<address2 />
     			<address3></address3>
@@ -7521,6 +7528,7 @@
     			<longitude>-81.6630129</longitude>
     		</coordinates>
     		<transactions>delivery</transactions>
+				<price>$$</price>
     		<location>
     			<address1>3820 Superior St</address1>
     			<address2>Ste 101</address2>

@@ -3,7 +3,7 @@
 body {
   font-family: Tahoma, Geneva, sans-serif;
   height: 100%;
-
+  background-color: #ffefa5;
 }
 
 table {
@@ -11,15 +11,16 @@ table {
   font size: 18pt;
 }
 
-#header {
-	width: 95%;
-  height: auto;
-  text-align: center;
-}
 .full-screen {
   max-height: 100%;
   max-width: 100%;
   top: 15%;
+}
+
+#header {
+	width: 95%;
+  height: auto;
+  text-align: center;
 }
 
 #container {

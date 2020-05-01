@@ -4,28 +4,33 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>HELP!</title>
+
+  <!-- Jquery -->
   <script src="jquery-3.4.1.min.js"></script>
+
+  <!-- Bootstrap Links -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.css" />
+<!-- DataTables Stylesheet and JavaScript Codes -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.css"/>
   <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.js"></script>
-  <link rel="stylesheet" href="master.css">
 
+  <link rel="stylesheet" href="master.css">
 </head>
 
+<!-- Main Page Section -->
 <body>
   <div class="full-screen" id="container">
     <div id="content">
-
-
       <div id="header">
         <figure>
-
           <img src="logo.png" alt="helpLogo">
-          <figure>
+        </figure>
       </div>
+
+      <!-- Search Form and Button // -->
       <div id="searchForm">
         <form method="post">
           <input type="text" name="query" id="query" placeholder="Search..." />
@@ -43,30 +48,30 @@
           <label for="Rating">Rating</label><br>
         </form>
       </div>
+      <!-- Table to be populated with search results -->
       <div id="searchResult">
         <table id="resultTable" class="table table-striped table-bordered" style="width:100%">
-
         </table>
       </div>
     </div>
   </div>
+
   <script type="text/javascript">
     var searchButton = document.getElementById("searchButton");
     searchButton.addEventListener("click", submitSearch);
 
+// Jquery function that makes an AJAX call to send search data to process.php
     function submitSearch() {
       var query = $("#query").val();
       var searchChoice = $("input[name='searchBy']:checked").val();
       $.post("process.php", {
         query: query,
         searchChoice: searchChoice
+// it then takes the result from process.php and inputs it into the table
       }, function(results) {
-
         $("#resultTable").html(results);
         $("#resultTable").DataTable();
       });
-
-
     }
   </script>
 </body>
