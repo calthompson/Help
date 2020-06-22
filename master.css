@@ -3,12 +3,12 @@
 body {
   font-family: Tahoma, Geneva, sans-serif;
   height: 100%;
-  background-color: #ffefa5;
+  background-color: #DDDDDD;
 }
 
-table {
-  width: 95%;
-  font size: 18pt;
+.table {
+  width: auto;
+  margin: auto;
 }
 
 .full-screen {
