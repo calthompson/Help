@@ -1,5 +1,6 @@
 <?php
-$API_KEY = "aAKXGudMNZrDDzjPmBQKldOWUreaeaoXEySJsGjeossJYA9Mz8A3qCkLxAwsiA7OB7pKPFsIS2YFI1M7qU24611T0tGIMhnqRDvFno1EOUpUh3Z5H2Xj1NQxXPKaXnYx";
+$app = parse_ini_file('app.ini');
+$API_KEY = $app['api-key'];
 $SEARCH_LIMIT = 50;
 $API_HOST = "https://api.yelp.com";
 $SEARCH_PATH = "/v3/businesses/search";
