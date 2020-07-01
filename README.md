@@ -18,10 +18,10 @@ After getting your API key, open up the app.ini file and paste the key between t
 
 ## Built With
 
-[Bootstrap](https://getbootstrap.com/) - CSS/HTML/JS Framework
-[Jquery](https://jquery.com/) - JS Framework
-[WampServer](https://www.wampserver.com/en/) - Local development environment used
-[PHP](https://www.php.net/) - Primary server-side language used
+* [Bootstrap](https://getbootstrap.com/) - CSS/HTML/JS Framework
+* [Jquery](https://jquery.com/) - JS Framework
+* [WampServer](https://www.wampserver.com/en/) - Local development environment used
+* [PHP](https://www.php.net/) - Primary server-side language used
 
 ## License
 
