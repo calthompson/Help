@@ -3,34 +3,38 @@
 body {
   font-family: Tahoma, Geneva, sans-serif;
   height: 100%;
-  background-color: #DDDDDD;
 }
 
-.table {
-  width: auto;
-  margin: auto;
-}
-
-.full-screen {
-  max-height: 100%;
-  max-width: 100%;
-  top: 15%;
-}
-
-#header {
-	width: 95%;
-  height: auto;
+#main-section {
   text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.card a {
+  color: #500A00;
 }
 
-#container {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  border: 0;
+.card {
+  max-width: 70%;
 }
 #searchForm {
-  width: 95%;
+  
   align-items: center;
   text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    text-align: center;
+  }
+  #resultSection {
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .card {
+    max-width: 100%;
+  }
 }
