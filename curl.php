@@ -1,7 +1,7 @@
 <?php
 $app = parse_ini_file('app.ini');
 $API_KEY = $app['api-key'];
-$SEARCH_LIMIT = 50;
+$SEARCH_LIMIT = 10;
 $API_HOST = "https://api.yelp.com";
 $SEARCH_PATH = "/v3/businesses/search";
 $BUSINESS_PATH = "/v3/businesses/";
@@ -73,15 +73,15 @@ function search($term, $location) {
 }
 
 /**
- * Query the Business API by business_id
+ * Query the Business Review API by business_id
  * 
  * @param    $business_id    The ID of the business to query
  * @return   The JSON response from the request 
  */
-function get_business($business_id) {
-    $business_path = $GLOBALS['BUSINESS_PATH'] . urlencode($business_id);
+function get_top_review($business_id) {
+    $business_path = $GLOBALS['BUSINESS_PATH'] . urlencode($business_id) . '/reviews';
     
-    return request($GLOBALS['API_HOST'], $business_path);
+    return json_decode(request($GLOBALS['API_HOST'], $business_path),true);
 }
 
 /**
@@ -93,50 +93,35 @@ function get_business($business_id) {
 function query_api($term, $location) {     
     $response = json_decode(search($term, $location),true);
     $businesses = $response['businesses'];
-    echo tableBuilder($businesses);
+    echo cardBuilder($businesses);
 }
 
 // Function to dynamically build a table
-function tableBuilder($data_array) {
-
-        // Header Row
-        $data_table = '<thead class="thead-dark">';
-        $data_table .= '<tr>';
-        $data_table .= '<th>Name</th>';
-        $data_table .= '<th>Address</th>';
-        $data_table .= '<th>Phone Number</th>';
-        $data_table .= '<th>Price</th>';
-        $data_table .= '</tr>';
-        $data_table .= '<tbody>';
-
+function cardBuilder($data_array) {
+    $card_info = "<h1>Results</h1>";
         foreach ($data_array as $key) {
-            $data_table .= '<tr>';
-                $data_table .= '<td><a href ="' . $key['url'] . '" target = "_blank">';
-                if (isset($key['name']))
-                    $data_table .= $key['name'];
-                $data_table .= '</a></td>';
+           $card_info .= '<div class="card mb-3 shadow border-dark"><div class = "row no-gutters"><div class="col-md-4">';
 
-                $data_table .= '<td>';           
-                if (isset($key['location']['address1']))
-                    $data_table .= $key['location']['address1'] . '<br/>' . $key['location']['city'] . ', OH ' . $key['location']['zip_code'];
-                $data_table .= '</td>';
+           if (isset($key['image_url'])) {
+            $card_info .= '<img src="' . $key['image_url'] .'" class="card-img"/>';
+           }
+           $card_info .= '</div><div class = "col-md-8"><div class="card-body">';
 
-                $data_table .= '<td>';
-                if (isset($key['display_phone']))
-                    $data_table .= $key['display_phone'];
-                $data_table .= '</td>';
+           if (isset($key['name'])) {
+            $card_info .=   '<div class="card-title"><h4><a href ="' . $key['url'] . '" target = "_blank">'. $key['name'].'</a></h4>';  
+           }
 
-                $data_table .= '<td>';
-                if (isset($key['price']))
-                    $data_table .= $key['price'];
-                $data_table .= '</td>';
-
-                
-            $data_table .= '</tr>';
+           if (isset($key['location']['address1'])) {
+            $card_info .= '<h5 class="card-subtitle text-muted mb-3">' . $key['location']['address1'] . '<br/>' . $key['location']['city'] . ', OH ' . $key['location']['zip_code'];
+            $card_info .=  '</h5>';
+        }
+            $card_info .= '<h5 class="mb-3">' . $key['categories'][0]['title'] . '</h5>';
+            $card_info .= '<p class = "card-text">"' . get_top_review($key['id'])['reviews'][0]['text'] . '"</p>';
+            $card_info .= '</div></div></div></div></div>';
+            
     }
 
-        $data_table .= '</tbody>';
-  return $data_table;
+  return $card_info;
 }
 
 // Function to help sanitize data
